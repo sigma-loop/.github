@@ -1,1 +1,1 @@
-<div align="center"><!-- Replace with your actual Logo URL if you have one, otherwise use this placeholder text --><h1>&lambda; LambdaLAP</h1><h3>Compile Your Logic.</h3><p>An interactive educational platform merging <b>LaTeX mathematics</b>, <b>secure code execution</b>, and <b>RAG-powered AI mentorship</b>.</p>
+
