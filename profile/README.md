@@ -64,7 +64,7 @@ The defining engineering opinion of SigmaLoop is **how each kind of challenge is
 | **MCQ** | stem + options (each flagged correct/incorrect) | **server-side set-equality** — *deterministic*; option correctness is never sent to the client until you submit |
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/sigma-loop/.github/main/profile/assets/grading.png" alt="Three graders, one progress engine" width="85%" />
+<img src="https://raw.githubusercontent.com/sigma-loop/.github/main/profile/assets/graders.png" alt="Three graders, one progress engine" width="85%" />
 </div>
 
 Programming and MCQ grading stay **deterministic** (fast, free, never hallucinate a grade). LLM judgement is **confined to mathematics** — the one place where `x^2 + 2x + 1` and `(x+1)^2` are the same answer in different clothes — and even there a low-confidence verdict is held for review rather than trusted.
